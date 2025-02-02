@@ -1,0 +1,7 @@
+{
+  "/routines/page": "app/routines/page.js",
+  "/assigned-users/[id]/page": "app/assigned-users/[id]/page.js",
+  "/assigned-users/page": "app/assigned-users/page.js",
+  "/assigned-users/[id]/routines/page": "app/assigned-users/[id]/routines/page.js",
+  "/login/page": "app/login/page.js"
+}
